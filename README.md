@@ -1,4 +1,4 @@
-# **Optimizing Object Detection in Computer Vision with YOLOv8**
+# **    Empowering Vision: Optimizing Object Detection with YOLOv8**
 
 ## **Project Overview**
 
